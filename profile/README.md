@@ -1,12 +1,4 @@
-## Hi there 👋
+# 책 스터디
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[헤드 퍼스트 디자인 패턴](https://github.com/CS-PingPing/design-pattern) <br>
+[한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://github.com/CS-PingPing/the-secret-life-of-programs)
